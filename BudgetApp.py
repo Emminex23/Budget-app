@@ -1,4 +1,3 @@
-import os
 database = { }
 
 class Budget():
